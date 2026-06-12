@@ -71,16 +71,6 @@ Simon-Says-Game/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add a screenshot here)*
->
-> ```md
-> ![Simon Says Preview](./screenshot.png)
-> ```
-
----
-
 ## 👨‍💻 Author
 
 **Ajay** — [@mrajay10](https://github.com/mrajay10)
