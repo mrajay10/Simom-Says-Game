@@ -54,18 +54,6 @@ Simon-Says-Game/
 5. Click the wrong button → Game Over, your score is shown
 6. Press any key again to restart
 
----
-
-## 🐛 Known Bugs Fixed
-
-| Bug | Fix |
-|---|---|
-| `let = started = false` (syntax error) | Should be `let started = false` |
-| `Math.random() * 3` only picks 3 of 4 colors | Should be `Math.random() * 4` |
-| `userColor` not declared with `let`/`const` | Causes implicit global variable |
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**
